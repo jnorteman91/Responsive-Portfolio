@@ -219,7 +219,7 @@ input[type=submit] {
 @media screen and (max-width: 640px){
     .main-section {
         width: 100%;
-        padding: 30px 30px 30px 30px;
+        padding: 60px 60px 60px 60px;
     }
     #masthead {
         width: 100%;
